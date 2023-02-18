@@ -4,6 +4,10 @@ title = 'toaq.gay'
 theme = 'hugo-book'
 defaultContentLanguage = 'en'
 
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 BookTheme = 'auto'
 

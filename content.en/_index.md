@@ -3,39 +3,18 @@ title: Jadı!
 type: blog
 ---
 
-# Jadı!
+# toaq.gay
 
-{{< columns >}}
-## Astris ipse furtiva
+toaq.gay is a funny little website for the constructed language *Toaq*.
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+We host [a course]({{<relref "/docs/course">}}) for learning Toaq concisely,
+and [a blog]({{<relref "/posts">}}) for Toaq related things (mostly from Nano).
 
-<--->
+There is also toki pona translations for everything! You can change the language in the dropdown to the left.
 
-## Suis quot vota
+{{<button relref="/docs/course">}}Course{{</button>}}
+{{<button relref="/posts">}}Blog{{</button>}}
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+## Credits
 
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+- nano ferret → Created the website
