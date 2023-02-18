@@ -1,0 +1,21 @@
+baseURL = 'https://toaq.gay/'
+languageCode = 'en-us'
+title = 'toaq.gay'
+theme = 'hugo-book'
+defaultContentLanguage = 'en'
+
+[params]
+BookTheme = 'auto'
+
+[languages]
+[languages.en]
+title = 'toaq.gay'
+languageName = 'English'
+weight = 1
+contentDir = 'content.en'
+
+[languages.tok]
+title = 'toaq.gay'
+languageName = 'toki pona'
+weight = 2
+contentDir = 'content.tok'

@@ -1,0 +1,14 @@
+- id: Search
+  translation: o alasa
+
+- id: Edit this page
+  translation: o ante e lipu ni
+
+- id: Last modified by
+  translation: 'jan ni li ante e lipu ni:'
+
+- id: Expand
+  translation: o suli
+
+- id: bookSearchConfig
+  translation: '{ cache: true }'
