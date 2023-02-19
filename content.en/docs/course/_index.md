@@ -19,7 +19,7 @@ Toaq is different in this regard as tones are *syntactical* as well as lexical i
 
 The following is an example of a Toaq sentence:
 
-> <css style="color:Violet;">Lıecho chuq káto báq cıe.</css>
+> {{% toaq %}}Lıecho chuq káto báq cıe.{{% /toaq %}}
 >
 > The cat likes to eat fish.
 

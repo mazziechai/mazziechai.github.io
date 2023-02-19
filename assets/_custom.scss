@@ -1,4 +1,9 @@
+@font-face {
+  font-family: 'Commissioner';
+  src: url('/assets/fonts/Commissioner_Medium.off') format('woff2');
+}
+
 .toaq {
-    color: violet !important;
-    font-family: serif !important;
+    color: violet;
+    font-family: "Commissioner", sans-serif;
 }
