@@ -19,10 +19,11 @@ Toaq is different in this regard as tones are *syntactical* as well as lexical i
 
 The following is an example of a Toaq sentence:
 
-> <css style="color:Violet;">Lıecho chuq káto báq cıe.</css>
+> {{% toaq %}}Lıecho chuq káto báq cıe.{{% /toaq %}}
+>
+> {{% derani %}}󱚼󱚹󱛍󱚴󱚿󱛃 󱚿󱚲󱛂 󱛘󱛄󱛊󱚺󱚷󱛃󱛙 󱛘󱚲󱛊󱚺󱛂󱛙 󱚹󱚹󱛍󱚴 󱛕{{% /derani %}}
 >
 > The cat likes to eat fish.
-
 
 ## What is predicate logic, and what does it serve in the context of Toaq?
 
