@@ -10,7 +10,7 @@ title: "Introduction to Toaq"
 
 Toaq is a *loglang*, part of the broader *conlang* category.
 Loglangs are broadly classified by a specific trait of the language: its *unambiguous* parsing of grammar.
-A quite popular loglang is Lojban. However. Toaq deviates from the Lojbanic style in its foundational goals.
+A quite popular loglang is Lojban. However, Toaq deviates from the Lojbanic style in its foundational goals;
 Toaq is based on *predicate logic*, a mathematical concept.
 
 Toaq is a tonal language, meaning the pitch of your voice dictates the meaning of the word.
