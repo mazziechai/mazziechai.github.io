@@ -1,5 +1,6 @@
 ---
-title: Jadı!
+title: toaq.gay
+description: toaq.gay is a funny little website for the constructed language *Toaq*.
 type: blog
 ---
 
