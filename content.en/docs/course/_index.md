@@ -21,8 +21,9 @@ The following is an example of a Toaq sentence:
 
 > {{% toaq %}}Lıecho chuq káto báq cıe.{{% /toaq %}}
 >
+> {{% derani %}}󱚼󱚹󱛍󱚴󱚿󱛃 󱚿󱚲󱛂 󱛘󱛄󱛊󱚺󱚷󱛃󱛙 󱛘󱚲󱛊󱚺󱛂󱛙 󱚹󱚹󱛍󱚴 󱛕{{% /derani %}}
+>
 > The cat likes to eat fish.
-
 
 ## What is predicate logic, and what does it serve in the context of Toaq?
 

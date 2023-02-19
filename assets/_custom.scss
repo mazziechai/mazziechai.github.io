@@ -2,8 +2,16 @@
   font-family: 'Commissioner';
   src: url('/assets/fonts/Commissioner_Medium.off') format('woff2');
 }
+@font-face {
+  font-family: 'Derani';
+  src: url('/assets/fonts/Derani.off') format('woff2');
+}
 
 .toaq {
     color: violet;
     font-family: "Commissioner", sans-serif;
+}
+
+.derani {
+    font-family: "Derani";
 }
