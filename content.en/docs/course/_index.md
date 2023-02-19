@@ -8,13 +8,13 @@ title: "Introduction to Toaq"
 
 ## What is Toaq?
 
-Toaq is a *loglang*, part of the broader *conlang* category.
+Toaq is a *loglang*, part of the broader conlang category.
 Loglangs are broadly classified by a specific trait of the language: its *unambiguous* parsing of grammar.
 A quite popular loglang is Lojban. However, Toaq deviates from the Lojbanic style in its foundational goals;
 Toaq is based on *predicate logic*, a mathematical concept.
 
 Toaq is a tonal language, meaning the pitch of your voice dictates the meaning of the word.
-In most natural languages with tones, tones are *lexical*, meaning they change the definition of the word entirely.
+In most natural languages with tones, tones are lexical, meaning they change the definition of the word entirely.
 Toaq is different in this regard as tones are *syntactical* as well as lexical instead, syntactic meaning tones change the grammatical function of the word. 
 
 The following is an example of a Toaq sentence:
