@@ -31,7 +31,7 @@ The following is an example of a Toaq sentence:
 It's really confusing to me and I hate it, and it's not essential to know it to be able to speak Toaq (although it helps to know some).
 
 Predicate logic lays the foundation of how the language functions as a whole, as part of its [semantics](https://en.wikipedia.org/wiki/Semantics).
-Because of this, there are certain particles and grammatical structures that make sense in the context of predicate logic, such as <css style="color:Violet;">lä</css>, the lambda clause particle.
+Because of this, there are certain particles and grammatical structures that make sense in the context of predicate logic, such as {{% toaq %}}lä{{% /toaq %}}, the lambda clause particle.
 
 I promise that Toaq isn't close to being as complicated as Wikipedia article on predicate logic. It is a fun and rewarding language to speak with a cute gay community as a bonus.
 
