@@ -12,7 +12,7 @@ lipu sona pi toki Towan li lon. lipu ante li lon. (ona mute li pali pi soweli Na
 toki pona li lon lipu ni! 
 sina wile ala e toki pona la o kepeken nena lon anpa pi ilo alasa.
 
-{{<button relref="/lipu/sona">}}lipu sona{{</button>}}
+{{<button relref="/docs/sona">}}lipu sona{{</button>}}
 {{<button relref="/sitelen">}}lipu mi{{</button>}}
 
 ## ijo pali pona
