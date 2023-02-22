@@ -19,3 +19,5 @@ There is also toki pona translations for everything! You can change the language
 ## Credits
 
 - nano ferret → Created the website
+- Miao → Audio samples, some code, and contributions to lessons
+- The & System → The entirety of lesson 2 for the course, probably more to come!
