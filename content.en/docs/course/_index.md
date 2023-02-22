@@ -37,4 +37,4 @@ I promise that Toaq isn't close to being as complicated as Wikipedia article on 
 
 Are you ready? Click the button below to get started with the next lesson!
 
-{{<button relref="/docs/course/1">}}→ Basics{{</button>}}
+{{<button relref="/docs/course/1">}}→ The Letters{{</button>}}
