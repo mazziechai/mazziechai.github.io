@@ -1,9 +1,9 @@
 ---
 menu:
   after: 
-    name: Oh, Toaq is gay?
+    name: Oh, is Toaq gay?
     weight: 10
-title: Oh, Toaq is gay?
+title: Oh, is Toaq gay?
 ---
 
 
