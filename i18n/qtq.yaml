@@ -1,14 +1,14 @@
 - id: Search
-  translation: Search
+  translation: Joaı
 
 - id: Edit this page
-  translation: Edit this page
+  translation: Beo ní zıqpeq
 
 - id: Last modified by
   translation: Last modified by
 
 - id: Expand
-  translation: Expand
+  translation: Sala
 
 - id: bookSearchConfig
   translation: '{ cache: true }'

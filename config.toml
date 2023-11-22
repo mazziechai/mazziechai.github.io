@@ -23,3 +23,9 @@ title = 'toaq.gay'
 languageName = 'toki pona'
 weight = 2
 contentDir = 'content.tok'
+
+[languages.qtq]
+title = 'toaq.gay'
+languageName = 'Tóaqzu'
+weight = 3
+contentDir = 'content.qtq'
